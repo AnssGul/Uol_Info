@@ -1,0 +1,220 @@
+{
+    "drinks": {
+        "image": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg",
+        "hot_coffee": {
+            "title": "Hot Coffee",
+            "image": "",
+            "content": [
+                {
+                    "name": "Caffe Americano",
+                    "image": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg",
+                    "value": 0
+                },
+                {
+                    "name": "Featured Blonde Roast",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 1
+                },
+                {
+                    "name": "Featured Medium Roast Pike Place ",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 2
+                },
+                {
+                    "name": "Featured Dark Roast Sumatra",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 3
+                },
+                {
+                    "name": "Featured Blonde Roast Vendra Blend",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 4
+                },
+                {
+                    "name": "Featured Decaf Roast Decaf Pike Place",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 5
+                },
+                {
+                    "name": "Featured Medium Roast Pike Place",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 6
+                },
+                {
+                    "name": "Featured Dark Roast Cafe Verona",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 7
+                },
+                {
+                    "name": "Featured Decaf Roast Decaf Pike Place",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 8
+                },
+                {
+                    "name": "Featured LTO Roast Green Apron Blend",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 9
+                },
+                {
+                    "name": "Caffe Misto",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 10
+                },
+                {
+                    "name": "Clover Starbucks Reserve- Rwanda Sholi",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 11
+                },
+                {
+                    "name": "Clover Starbucks Reserve- Papua New Guinea Moanti",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 12
+                },
+                {
+                    "name": "Clover Starbucks Reserve- Ecuador Loja",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 13
+                },
+                {
+                    "name": "Clover Starbucks Reserve- Costa Rica Naranjo",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 14
+                }
+            ]
+        },
+        "teas": {
+            "title": "Teas",
+            "image": "",
+            "content": [
+                {
+                    "name": "Chai Tea Latte",
+                    "image": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg",
+                    "value": 15
+                },
+                {
+                    "name": "Chai Tea",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 16
+                },
+                {
+                    "name": "Earl Gray ",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 17
+                },
+                {
+                    "name": "Royal English Breakfast Tea",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 18
+                },
+                {
+                    "name": "Royal English Breakfast Tea Latte",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 19
+                },
+                {
+                    "name": "Honey Citrus Mint Tea",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 20
+                }
+            ]
+        },
+        "cold_coffee": {
+            "title": "Cold Coffee",
+            "image": "",
+            "content": [
+                {
+                    "name": "Cinnamon Caramel Cream Cold Brew",
+                    "image": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg",
+                    "value": 21
+                },
+                {
+                    "name": "Chocolate Cream Cold Brew",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 22
+                },
+                {
+                    "name": "Salted Caramel Cream Cold Brew",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 23
+                },
+                {
+                    "name": "Vanilla Sweet Cream Cold Brew",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 24
+                },
+                {
+                    "name": "Nitro Cold Brew",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 25
+                },
+                {
+                    "name": "Iced Coffee",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 26
+                }
+            ]
+        },
+        "frappuccino": {
+            "title": "Frappucino",
+            "image": "",
+            "content": [
+                {
+                    "name": "Chocolate Java Mint Frappuccino- Blended Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg",
+                    "value": 27
+                },
+                {
+                    "name": "Coffee Frappuccino- Blended Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 28
+                },
+                {
+                    "name": "Chai Cream Frappuccino",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 29
+                },
+                {
+                    "name": "White Chocolate Creme Frappuccino- Blended Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 30
+                }
+            ]
+        },
+        "cold_drinks": {
+            "title": "Cold Drinks",
+            "image": "",
+            "content": [
+                {
+                    "name": "Frozed Pineapple Passionfruit Lemonade Starbucks- Refresher Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/01453D57F71743A2B1EF8646604F6C38.jpg",
+                    "value": 31
+                },
+                {
+                    "name": "Frozed Mango Passionfruit Lemonade Starbucks- Refresher Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 32
+                },
+                {
+                    "name": "Paradise Drink Starbucks- Refresher Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 33
+                },
+                {
+                    "name": "Pink Drink Starbucks- Refresher Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 34
+                },
+                {
+                    "name": "Dragon Drink Starbucks- Refresher Beverage",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 35
+                },
+                {
+                    "name": "Lemonade",
+                    "image": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+                    "value": 36
+                }
+            ]
+        }
+    }
+}
